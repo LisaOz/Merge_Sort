@@ -1,5 +1,6 @@
 '''
-This is a Python script to demonstrate the sorting of an array
+This is a Python script to
+demonstrate the sorting of an array
 using the merge sort algorithm.
 '''
 
